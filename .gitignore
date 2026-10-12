@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+*.csv
+*.zip
+
+scratch/
+.ipynb_checkpoints/
+.vscode/
